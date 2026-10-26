@@ -2,3 +2,5 @@ streamlit
 pymupdf
 langchain-text-splitters
 langchain-ollama
+langchain-community
+faiss-cpu
